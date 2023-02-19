@@ -11,3 +11,5 @@ Key features of this project include:
 • Use of the C language and Microchip Studio to implement the project on an ATMega32 microcontroller.
 
 This project can serve as a starting point for developing other hardware projects with Microchip Studio and C language. It can also be used as an example of how to use Microchip Studio to integrate software and hardware components to create a functional device.
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/25HzhwQbgjs/0.jpg)](http://www.youtube.com/watch?v=25HzhwQbgjs "Musical Alarm Clock in C, Microchip Studio")
